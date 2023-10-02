@@ -9,5 +9,5 @@ def primes(number_of_primes):
                 break
         else:
             list.append(j)
-            j += 1
+        j += 1
     return list
